@@ -81,6 +81,4 @@ You can configure the inut and output dir in the `config.sh` file.
 
 ![permissions-for-asciidoc.png](img%2Fpermissions-for-asciidoc-2.png)
 
-
-
-
+Hello
